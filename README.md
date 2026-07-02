@@ -1,0 +1,1 @@
+Helps film students generate professional DIT reports for every backup they make, without needing paid software like Silverstack or YoYotta. Runs entirely in the browser — computes SHA-256 checksums, reads clip metadata (resolution, codec, frame count, timecode), and exports a printable report with preview thumbnails for each clip.
